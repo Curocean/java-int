@@ -1,4 +1,1 @@
-println("rood");
-println("blauwe");
-println("groen");
-println("geel");
+println("Text", "hoi", "doei" );
