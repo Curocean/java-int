@@ -1,5 +1,9 @@
-int mijnGetal = 1;
+String a = "Hoi mijn naam Euro. ";
+String b = "Ik ben een student. ";
+String c = "Ik woon in Almere. ";
+String d = "Ik heb drie katten. ";
+String totaal = "";
 
-if(mijnGetal == 2){
-println("Het anrwoord is 2");
-}
+totaal = a + b + c + d;
+
+println(totaal);
